@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 We created a diverse collection of image inputs to evaluate the LLM's ability to interpret visual elements across varying complexity levels. Simple visual representations were generated using the [ASCII Art](https://www.asciiart.eu/image-to-ascii) online converter.
 
-The dataset is organized into two main components: training set and evaluation set, both located in the `./data` directory.
+The dataset has only one evaluation set located in the `./data` directory.
 Each data sample contains the following key attributes:
 
 * `url`: Source link to the original content
