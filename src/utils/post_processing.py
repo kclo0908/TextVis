@@ -32,6 +32,7 @@ def postprocess_function_by_prob(model_outputs, tokenizer, targets):
 
     return acc, predictions
 
+
 def postprocess_function_by_txt(predictions, targets, choices):
 
     acc = 0

@@ -1,0 +1,20 @@
+{"pred": "C: Tigger", "label": "B"}
+{"pred": "B: clock", "label": "B"}
+{"pred": "D: unicorn", "label": "C"}
+{"pred": "B: oil rigs", "label": "A"}
+{"pred": "D: candle", "label": "D"}
+{"pred": "B: castle", "label": "C"}
+{"pred": "C: windmill", "label": "D"}
+{"pred": "D: mushroom", "label": "B"}
+{"pred": "The ASCII art depicts a crescent moon with a face, characterized by the curved outline and facial features within the crescent shape. The details such as the eyes, nose, and mouth are visible, and the overall shape and presentation suggest a stylized representation of the moon.\n\nTherefore, the correct answer is:\nA: moon", "label": "A"}
+{"pred": "C: moose", "label": "A"}
+{"pred": "D: rabbit", "label": "C"}
+{"pred": "D: dog", "label": "C"}
+{"pred": "B: kangaroo", "label": "D"}
+{"pred": "D: horse", "label": "D"}
+{"pred": "D: butterfly", "label": "D"}
+{"pred": "B: elephant", "label": "A"}
+{"pred": "C: animal", "label": "B"}
+{"pred": "A: cow", "label": "A"}
+{"pred": "B: spider", "label": "B"}
+{"pred": "D: lamp", "label": "D"}

@@ -15,8 +15,10 @@ class AsciiDataset(Dataset):
                                     + "\nC: " + line["choices"][2] \
                                     + "\nD: " + line["choices"][3]
                 line["labels"] = ["A", "B", "C", "D"][line["labels"].index(1)]
+                line["ascii_art"] = line["ascii_art"].replace("\\n", "\n")
                 samples.append(line)
         self.data = samples
+        # import pdb; pdb.set_trace()
 
     def __len__(self):
         return len(self.data)
@@ -26,12 +28,3 @@ class AsciiDataset(Dataset):
     
     def map(self, func):
         self.data = [func(x) for x in self.data]
-
-# if __name__=="__main__":
-#     data = AsciiDataset("./test_set_all/test.jsonl")
-#     print(data[0])
-#     def func(example):
-#         example["other"]=1
-#         return example
-#     data.map(func)
-#     print(data[0])

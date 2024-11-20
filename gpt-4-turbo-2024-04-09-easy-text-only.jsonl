@@ -1,0 +1,36 @@
+{"pred": "The ASCII art depicts the letter \"Q\". The distinctive features such as the circular shape with a tail extending from the bottom right can be identified as the letter \"Q\".\n\nAnswer: B", "label": "D"}
+{"pred": "D: 8", "label": "A"}
+{"pred": "A: V", "label": "C"}
+{"pred": "C: X", "label": "C"}
+{"pred": "The ASCII art depicts the number \"1\". The vertical lines and the top horizontal line form the typical shape of the number \"1\".\n\nCorrect answer: B", "label": "B"}
+{"pred": "The ASCII art depicts the letter \"S\". The curves and the lines in the ASCII art resemble the shape of the letter \"S\".\n\nAnswer: B", "label": "C"}
+{"pred": "C: S", "label": "C"}
+{"pred": "B", "label": "D"}
+{"pred": "The ASCII art depicts the letter \"H\". The structure consists of two vertical columns on either side with a connecting horizontal line in the middle, which is characteristic of the letter \"H\".\n\nAnswer: B", "label": "B"}
+{"pred": "D", "label": "C"}
+{"pred": "The ASCII art depicts the letter \"M.\" The structure of the art shows vertical lines on both sides and a peak in the middle, which is characteristic of the letter \"M.\"\n\nAnswer: C", "label": "B"}
+{"pred": "The ASCII art depicts the letter \"E\".\n\nAnswer: D", "label": "B"}
+{"pred": "C: H", "label": "D"}
+{"pred": "The ASCII art depicts the letter \"E\". The vertical line on the left side and three horizontal lines across the top, middle, and bottom create the shape of the letter \"E\".\n\nCorrect answer: C", "label": "C"}
+{"pred": "The ASCII art depicts the letter \"D\". The overall shape and curves in the ASCII art resemble the uppercase letter \"D\".\n\nCorrect answer: C", "label": "B"}
+{"pred": "The ASCII art depicts the number \"2\". The shape and curves in the ASCII art resemble the number \"2\", with a distinct loop at the top and a long tail extending downwards and then curving to the left.\n\nAnswer: C", "label": "A"}
+{"pred": "The ASCII art depicts the letter \"B\". The structure of the art shows two distinct round sections on the right side, typical of the letter \"B\", and a straight line on the left side, which forms the backbone of the letter.\n\nAnswer: D", "label": "D"}
+{"pred": "The ASCII art depicts a large letter \"O\" formed by various characters and symbols. The shape is circular and filled in, matching the typical representation of the letter \"O\".\n\nCorrect answer: B", "label": "B"}
+{"pred": "B: B", "label": "D"}
+{"pred": "The ASCII art depicts the letter \"C.\"\n\nAnswer: B", "label": "D"}
+{"pred": "The ASCII art depicts the letter \"M\". The structure of the art shows vertical lines on both sides with connecting lines in the middle that resemble the shape of the letter \"M\".\n\nCorrect answer: C", "label": "A"}
+{"pred": "The ASCII art depicts the letter \"Y\". The top part of the art shows two lines that start wide apart at the top and converge as they move downward, forming the upper branches of the \"Y\". The lower part of the art shows a single vertical line that represents the tail of the \"Y\".\n\nAnswer: C", "label": "C"}
+{"pred": "The ASCII art depicts a large circle with a smaller circle inside it, resembling the letter \"O\". The outer circle is made up of a series of '@' characters, and the inner circle is also made up of '@' characters, surrounded by '%' characters. The overall shape and arrangement clearly form the letter \"O\".\n\nAnswer: D", "label": "A"}
+{"pred": "The ASCII art depicts the number \"8\". The top and bottom loops of the number are clearly visible, and the middle section connects these loops, forming the recognizable shape of the number \"8\".\n\nCorrect answer: C", "label": "D"}
+{"pred": "The ASCII art depicts the letter \"J.\" The top part of the art shows a horizontal line that curves and extends downwards, forming the characteristic hook of the letter \"J.\" The rest of the art below this hook is filled with repeated patterns that form the vertical stroke of the \"J.\"\n\nAnswer: C", "label": "C"}
+{"pred": "The ASCII art depicts the number \"9\". The shape and curves in the ASCII art resemble the number 9, with a loop at the top and a long tail extending downwards.\n\nCorrect answer: C", "label": "C"}
+{"pred": "B", "label": "B"}
+{"pred": "D: A", "label": "C"}
+{"pred": "The ASCII art depicts the letter \"W\". The structure of the art shows a wide base that narrows as it moves upward, typical of the letter \"W\". The top of the art has multiple peaks, which align with the typical shape of a \"W\".\n\nAnswer: D", "label": "A"}
+{"pred": "The ASCII art depicts two mirrored and stylized letter \"C\" facing each other. Each \"C\" is formed by a series of lines and curves that are symmetrical and create a visual of two letter \"C\"s back to back.\n\nAnswer: A", "label": "B"}
+{"pred": "The ASCII art depicts the letter \"M\". \n\nAnswer: C", "label": "A"}
+{"pred": "The ASCII art depicts the shape of the letter \"O\". The circular form is evident from the arrangement of characters, creating a rounded visual that matches the typical representation of the letter \"O\".\n\nCorrect answer: C", "label": "B"}
+{"pred": "C", "label": "B"}
+{"pred": "The ASCII art depicts the letter \"M\". The structure of the art shows vertical lines on the sides and two peaks in the middle, which are characteristic of the letter \"M\".\n\nAnswer: A", "label": "A"}
+{"pred": "D", "label": "D"}
+{"pred": "D", "label": "A"}

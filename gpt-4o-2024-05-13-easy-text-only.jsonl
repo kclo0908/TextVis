@@ -1,0 +1,36 @@
+{"pred": "B: Q", "label": "D"}
+{"pred": "D: 8", "label": "A"}
+{"pred": "D: W", "label": "C"}
+{"pred": "C", "label": "C"}
+{"pred": "B", "label": "B"}
+{"pred": "C", "label": "C"}
+{"pred": "C: S", "label": "C"}
+{"pred": "B: 8", "label": "D"}
+{"pred": "B: H", "label": "B"}
+{"pred": "C", "label": "C"}
+{"pred": "B", "label": "B"}
+{"pred": "B: V", "label": "B"}
+{"pred": "C: H", "label": "D"}
+{"pred": "D: L", "label": "C"}
+{"pred": "C: D", "label": "B"}
+{"pred": "D: U", "label": "A"}
+{"pred": "C: P", "label": "D"}
+{"pred": "B: O", "label": "B"}
+{"pred": "D: 7", "label": "D"}
+{"pred": "D: 0", "label": "D"}
+{"pred": "C: M", "label": "A"}
+{"pred": "C: Y", "label": "C"}
+{"pred": "D: O", "label": "A"}
+{"pred": "C: 8", "label": "D"}
+{"pred": "C: J", "label": "C"}
+{"pred": "D: H", "label": "C"}
+{"pred": "D: A", "label": "B"}
+{"pred": "C: R", "label": "C"}
+{"pred": "D", "label": "A"}
+{"pred": "A: C", "label": "B"}
+{"pred": "C", "label": "A"}
+{"pred": "C: O", "label": "B"}
+{"pred": "D: U", "label": "B"}
+{"pred": "B", "label": "A"}
+{"pred": "D: I", "label": "D"}
+{"pred": "D: 9", "label": "A"}
