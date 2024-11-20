@@ -27,21 +27,20 @@ Each data sample contains the following key attributes:
 
 * `url`: Source link to the original content
 * `ascii_art`: ASCII representation in text format
-* `category-1/2/3`: Hierarchical classification labels describing the ASCII art content
 * `choices`: Available options for the recognition task, including both correct and incorrect answers
 * `labels`: Binary indicators corresponding to each choice
-* `image_path`: Reference to the associated image file
 
-To begin with, please run the following script for data preprocessing:
-
-```bash
-bash script/prepare_data.sh
-```
 
 ## Script
 
 To evaluate models through API:
 ```bash
-export API_KEY=xxx
-python3 src/evaluation_by_api.py --api_key $API_KEY --model_name xxx --base_url https://xxxxxxxx/v1 --template_name xxx --output_file_path xxx.jsonl --mode text-only
+export API_KEY={YOUR_API_KEY}
+# export MODEL_NAME=gpt-4-turbo-2024-04-09
+export MODEL_NAME=gpt-4o-2024-05-13
+export FILE_PATH=./data/easy.jsonl
+# export FILE_PATH=./data/med.jsonl
+# export FILE_PATH=./data/hard.jsonl
+python3 src/evaluation_by_api.py --test_file_path $FILE_PATH --api_key $API_KEY --model_name $MODEL_NAME --output_file_path ${MODEL_NAME}-easy-text-only.jsonl --mode text-only
+
 ```
