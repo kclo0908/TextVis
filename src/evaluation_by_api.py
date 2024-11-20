@@ -74,7 +74,7 @@ if __name__=="__main__":
     parser = argparse.ArgumentParser(description="evaluation")
     parser.add_argument("--api_key", type=str, default="", help="API_KEY")
     parser.add_argument("--model_name", type=str, default="gpt-4-turbo-2024-04-09", help="testing model") #gpt-4o-2024-08-06
-    parser.add_argument("--max_tokens", type=int, default=512, help="The max number of tokens to be generated")
+    parser.add_argument("--max_tokens", type=int, default=2048, help="The max number of tokens to be generated")
     parser.add_argument("--temperature", type=float, default=0.0)
     parser.add_argument("--base_url", type=str, default="https://api.openai.com/v1",) # https://api.together.xyz/v1
     parser.add_argument("--test_file_path", type=str, default="./data/easy.jsonl")
@@ -82,7 +82,7 @@ if __name__=="__main__":
     parser.add_argument("--mode", type=str, default="text-only", help="text-only")
     args = parser.parse_args()
 
-    system_prompt = "You are an expert in reading ASCII-rendered visual objects, please pay attention to the given ASCII expression and answer the multi-choice questions by choosing the correct option from the following choices after step by step reasoning."
+    system_prompt = "You are an expert in reading ASCII-rendered visual objects, please pay attention to the given ASCII expression and answer the multi-choice questions by choosing the correct option from the following choices."
 
     args.system_prompt = system_prompt
 
